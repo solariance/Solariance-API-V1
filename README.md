@@ -19,7 +19,7 @@ https://developer.solariance.de
 
 ### Clone the repository: 
 ```
-git clone https://github.com/yourusername/solariance-api-client.git
+git clone https://github.com/solariance/python-api-v1-example.git
 ```
 
 ### Setting environment variables
